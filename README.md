@@ -96,6 +96,6 @@ Join our community of data enthusiasts! Participate in discussions, ask question
 - **Discord**: Join our server to connect with others in real-time.
 - **GitHub Discussions**: Use this space for asynchronous communication.
 
-## License
+## customize
 
 Feel free to customize this template further to suit the specific needs and scope of your repository!  
